@@ -1,7 +1,5 @@
 # Linux-IPC-Semaphores
-## NAME : KAMESH RR
-## REG NO : 212223230095
-## DEP : AIDS
+
 Ex05-Linux IPC-Semaphores
 
 # AIM:
